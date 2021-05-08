@@ -1,3 +1,7 @@
+<?php
+    session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,12 +12,4 @@
 </head>
 <body>
 
-    <header>
-        <nav>
-            <ul>
-                <li>Home</li>
-                <li>Topics</li>
-                <li>Notes</li>
-            </ul>
-        </nav>
-    </header>
+    
